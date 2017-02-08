@@ -15,7 +15,7 @@ from time import strftime
 from os.path import isfile
 
 __author__ = "Musa Ecer"
-__version__ = "0.3"
+__version__ = "0.31"
 __email__ = "musaecer@gmail.com"
 
 
